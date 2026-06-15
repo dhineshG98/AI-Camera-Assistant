@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+vosk
+pyaudio
+edge-tts
+pygame
+numpy
